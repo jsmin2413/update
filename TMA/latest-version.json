@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.0.3",
-  "latestVersionCode": 4,
+  "latestVersion": "1.0.4",
+  "latestVersionCode": 5,
   "url": "https://github.com/jsmin2413/update/releases/tag/",
   "releaseNotes": [
     "- 기능 추가/수정",
-    "- 안정성 개선"
+    "- 성 개선"
   ]
 }
